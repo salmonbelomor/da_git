@@ -1,3 +1,4 @@
 *.warc.gz filter=lfs diff=lfs merge=lfs -text
 rsae.ru/rsae.ru.warc.gz filter=lfs diff=lfs merge=lfs -text
 archnov.com/archnov.warc.gz filter=lfs diff=lfs merge=lfs -text
+gnezdovo.com/gnezdovo.com.warc.gz filter=lfs diff=lfs merge=lfs -text
