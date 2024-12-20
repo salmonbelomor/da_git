@@ -17,7 +17,7 @@
 3. [archnov.com](https://github.com/salmonbelomor/da_git/tree/main/archnov.com)
 
 Каждая папка (кроме gnezdovo.com) содержит результат работы wpull: CDX, TXT, WARC.GZ и DB файлы.
-В папке gnezdovo.com yt содержится только WARC.GZ файл, так как его размер больше 2 ГБ. См. облачное хранилище в таблице wpull & metawarc ниже.
+В папке gnezdovo.com не содержится WARC.GZ файл, так как его размер больше 2 ГБ. См. облачное хранилище в таблице wpull & metawarc ниже.
 Дополнительные файлы включают:
 - metawarc_analyse.txt (Результат анализа содержимого WARC.GZ)
 - {domain}_pdf.jsonl (Метаданные pdf-файлов)
